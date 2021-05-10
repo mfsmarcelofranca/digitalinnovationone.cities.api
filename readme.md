@@ -21,6 +21,9 @@
 * database: cidades
 * User: root
 * Password: root
+> executar comando 
+>* CREATE EXTENSION cube;
+>* CREATE EXTENSION earthdistance;
 
 ##### Dados para teste
 > https://github.com/chinnonsantos/sql-paises-estados-cidades

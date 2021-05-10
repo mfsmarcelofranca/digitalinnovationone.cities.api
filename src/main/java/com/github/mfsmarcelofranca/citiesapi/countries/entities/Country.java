@@ -1,4 +1,4 @@
-package com.github.mfsmarcelofranca.citiesapi.countries;
+package com.github.mfsmarcelofranca.citiesapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
